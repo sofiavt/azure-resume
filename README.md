@@ -35,6 +35,17 @@ Testing is essential, and while my tests are basic, they are present. Although I
 ## CI/CD Resources
 Whenever changes are made to the backend directory, the CI/CD workflow is triggered and executed. The backend job will deploy updated functions, such as Azure functions, to the cloud with the changes I made. Meanwhile, the frontend pipeline handles deploying the frontend to Azure whenever there are changes to it as well.
 
+## Steps
+- [x] Create a GitHub repo.
+- [x] Use HTML and CSS to build the website and store the code in the repo.
+- [x] Add a visitor count to the website using Azure Functions with HTTP trigger, Azure   Cosmos DB.
+- [x] Deploy the website to Azure Blob Storage.
+- [x] Purchase a custom domain and delegate DNS management to Azure.
+- [x] Setup Azure CDN, map custom domain to the CDN endpoint and enable HTTPS routing.
+- [x] Unit Testing using .NET8
+- [x] Pipeline Configuration and Set up GitHub Actions 
+
+
 ## About the challenge
 
 - The first phase involved creating a static resume website using HTML and CSS. I followed along the [ACG Project video of A Cloud Guru](https://www.youtube.com/watch?v=ieYrBWmkfno&t=4809s). To save time on design, I used Gwyn’s template and I customized the code to match my desired layout. Afterward, I added all the essential details to complete the resume page.
