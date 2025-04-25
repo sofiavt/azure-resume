@@ -1,6 +1,6 @@
 using System.Text.Json.Serialization;
 
-namespace Company.Function
+namespace api.Function
 {
     public class Counter(string id, int count)
     {

@@ -1,7 +1,5 @@
 using System.Net;
 using System.Text.Json;
-using Api.Function;
-using Company.Function;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Azure.Functions.Worker.Http;
 

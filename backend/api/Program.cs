@@ -2,7 +2,7 @@ using Microsoft.Azure.Functions.Worker;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 
-using Api.Function;
+using api.Function;
 
 var host = new HostBuilder()
     .ConfigureFunctionsWorkerDefaults()

@@ -1,0 +1,8 @@
+C:\Users\User\Documents\GitHub\azure-resume-challenge\azure-resume-challenge\backend\tests\obj\Debug\net9.0\tests.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\azure-resume-challenge\azure-resume-challenge\backend\tests\obj\Debug\net9.0\tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\azure-resume-challenge\azure-resume-challenge\backend\tests\obj\Debug\net9.0\tests.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\azure-resume-challenge\azure-resume-challenge\backend\tests\obj\Debug\net9.0\tests.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\azure-resume-challenge\azure-resume-challenge\backend\tests\obj\Debug\net9.0\tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\azure-resume-challenge\azure-resume-challenge\backend\tests\obj\Debug\net9.0\tests.sourcelink.json
+C:\Users\User\Documents\GitHub\azure-resume-challenge\azure-resume-challenge\backend\tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_tests
+C:\Users\User\Documents\GitHub\azure-resume-challenge\azure-resume-challenge\backend\tests\bin\Debug\net9.0\CoverletSourceRootsMapping_tests

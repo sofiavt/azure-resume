@@ -1,4 +1,3 @@
-using Company.Function;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Azure.Functions.Worker.Http;
 

@@ -1,6 +1,5 @@
-using Company.Function;
 
-namespace Api.Function;
+namespace api.Function;
 
 public interface IVisitorCounterService
 {
