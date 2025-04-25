@@ -51,8 +51,11 @@ Whenever changes are made to the backend directory, the CI/CD workflow is trigge
 - The first phase involved creating a static resume website using HTML and CSS. I followed along the [ACG Project video of A Cloud Guru](https://www.youtube.com/watch?v=ieYrBWmkfno&t=4809s). To save time on design, I used Gwyn’s template and I customized the code to match my desired layout. Afterward, I added all the essential details to complete the resume page.
 
 - I used GoDaddy for my domain purchase. Creating the Azure CDN was quite simple, and attaching my custom domain to it was equally easy.
+This is the result of the staic resume page.
+![Resume](resume_website.png)
 
 - Integrating the Frontend and Backend: This part was a bit challenging for me, especially since I’m not the most experienced programmer. However, once I figured it out and saw the visitor counter updating correctly on the page, it was incredibly satisfying! (Just remember to purge the CDN after making changes to your website!)
+
 
 ## What was the hardest part?
 The most challenging aspect of the challenge for me was getting the function to work. I faced several obstacles, primarily because it was my first time working with Azure Functions and serverless computing in a real-world scenario. Gwyn’s video was outdated, and I had difficulty finding the correct Azure Cosmos DB bindings. I had to read a lot about APIs, Azure Cosmos DB triggers & bindings, and NoSQL databases to fully understand what I needed to do.However, after many hours of frustrating debugging, I finally succeeded.
