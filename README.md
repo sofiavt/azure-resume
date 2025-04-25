@@ -8,7 +8,7 @@ This project is a reflection of my commitment to transitioning into a cloud-focu
 
 
 ## Demo
-My resume's website is [here](https://www.cloudchallangezsofiasresume.com)
+My resume's website is [here](https://www.cloudchallangezsofiasresume.com). 
 If you're reading this in the future and the link doesn't work, I probably let the domain expire.
 
 ## Structure
@@ -17,6 +17,10 @@ If you're reading this in the future and the link doesn't work, I probably let t
 - backend/api/: Contains the .NET API deployed on Azure Functions.
   - GetVisitorCounter.cs: Contains the visitor counter code.
 - .github/workflows/: Contains CI/CD workflow configurations.
+
+## Architecture layout
+
+![alt text](<resume architecture.PNG>)
 
 ## Frontend Resources
 
