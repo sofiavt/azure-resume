@@ -20,7 +20,7 @@ If you're reading this in the future and the link doesn't work, I probably let t
 
 ## Architecture layout
 
-![alt text](<resume architecture.PNG>)
+![Architecture Diagram](resume_architecture.PNG)
 
 ## Frontend Resources
 
