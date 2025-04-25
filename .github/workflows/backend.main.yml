@@ -31,14 +31,14 @@ jobs:
         dotnet-version: ${{ env.DOTNET_VERSION }}
 
     - name: 'Resolve Project Dependencies Using Dotnet'
-      shell: pws
+      shell: pwsh
       run: |
         pushd './${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}backend'
         dotnet build --configuration Release --output ./output
         popd
 
     - name: 'Run unit test'
-      shell: pws
+      shell: pwsh
       run: |
        pushd './${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}tests'
        dotnet test 
