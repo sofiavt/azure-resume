@@ -20,7 +20,7 @@ If you're reading this in the future and the link doesn't work, I probably let t
 
 ## Architecture layout
 
-![Architecture Diagram](Architecture Diagram.png)
+![Architecture Diagram](Architecture_Diagram.png)
 
 ## Frontend Resources
 
