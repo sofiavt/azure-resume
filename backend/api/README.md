@@ -1,3 +1,3 @@
-#Your API is located here
+#Your API lives here
 
 
