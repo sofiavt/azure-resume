@@ -53,7 +53,7 @@ Whenever changes are made to the backend directory, the CI/CD workflow is trigge
 - I used GoDaddy for my domain purchase. Creating the Azure CDN was quite simple, and attaching my custom domain to it was equally easy.
 This is the result of the staic resume page.
 ![Resume](resume_website.png)
-
+- (Sidenote: cloudchallangezsofiasresume isn’t a typo—I was just exhausted trying to find an available domain. Since it’s for an Azure challenge, I went with “challange” on purpose).
 - Integrating the Frontend and Backend: This part was a bit challenging for me, especially since I’m not the most experienced programmer. However, once I figured it out and saw the visitor counter updating correctly on the page, it was incredibly satisfying! (Just remember to purge the CDN after making changes to your website!)
 
 
