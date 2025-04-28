@@ -1,17 +1,21 @@
-
-namespace api.Function;
-
-public interface IVisitorCounterService
+namespace api.Function
 {
-    Counter IncrementCounter(Counter counter);
-}
-
-public class VisitorCounterService : IVisitorCounterService
-{
-    public Counter IncrementCounter(Counter counter)
+    public interface IVisitorCounterService
     {
-        // Increment and return the counter
-        counter.Count += 1;
-        return counter;
+        Counter IncrementCounter(Counter counter);
+    }
+
+    public class VisitorCounterService : IVisitorCounterService
+    {
+        public Counter IncrementCounter(Counter counter)
+        {
+            if (counter == null)
+            {
+                throw new ArgumentNullException(nameof(counter));
+            }
+
+            counter.Count += 1;
+            return counter;
+        }
     }
 }
