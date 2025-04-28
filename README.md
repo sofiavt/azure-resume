@@ -24,7 +24,7 @@ If you're reading this in the future and the link doesn't work, I probably let t
 
 ## Frontend Resources
 
-The front-end of the site is built as a static webpage using HTML, CSS, and JavaScript. It features a visitor counter that retrieves data through an API call to an Azure Function. I based the design of my site on this template.
+The front-end of the site is built as a static webpage using HTML, CSS, and JavaScript. It features a visitor counter that retrieves data through an API call to an Azure Function. 
 
 ## Backend Resources
 The back-end consists of an HTTP-triggered Azure Function with Cosmos DB input and output bindings. The function fetches an item from Cosmos DB, increments its value, saves the updated item, and then returns the new value to the caller.
